@@ -1,3 +1,9 @@
-# Atelier 02 — Mini-projet Web à organiser
+# first readme attempts
+this is my first readme 
+## section1: 
+-html 
+-css
+## section2: 
+`index.html`
+[github](https://github.com/)
 
-Ce dépôt contient un petit site HTML/CSS/JavaScript. **Les fichiers sont volontairement tous placés à la racine.** Au départ, le site fonctionne ainsi.
